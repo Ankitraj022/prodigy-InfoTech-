@@ -85,7 +85,7 @@
 
     h1 {
       font-size: 2.5rem;
-      color: #ffe66d;
+      color: #1a1918;
       margin-top: 40px;
       margin-bottom: 20px;
     }
@@ -147,7 +147,7 @@
     }
 
     .stats span {
-      color: #ffe66d;
+      color: #111111;
       font-weight: bold;
     }
 
